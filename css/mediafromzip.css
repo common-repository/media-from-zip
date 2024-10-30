@@ -1,0 +1,23 @@
+table.table_ziplist{
+table-layout:fixed;
+border-collapse:collapse;
+}
+table.table_ziplist th{
+word-wrap:break-word;
+border:1px solid #b9b9b9;
+background-color:#CACACA;
+text-align:left;
+padding:3px;
+}
+table.table_ziplist td{
+word-wrap:break-word;
+border:1px solid #b9b9b9;
+text-align:left;
+padding:3px;
+}
+table.table_ziplist tr:hover {
+background-color:#FFCC99;
+}
+table.table_ziplist td:hover {
+background-color:#CCFFFF;
+}
